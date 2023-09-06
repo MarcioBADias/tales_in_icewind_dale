@@ -14,9 +14,16 @@ const App = () => {
             Resolução do resgate dos pescadores
           </h2>
 
-          <div>
-            Após terem quase morridos nas mãos de <span className='blink-text'> Maulg</span> nossos aventureiros
-            
+          <div className='text-box'>
+            <p> 
+              Após terem quase morridos nas mãos de <span className='blink-text'> Maulg</span> nossos aventureiros
+              recebem uma idesperada ajuda para sairem do covil da bruxa. Depois de serem arrastados pelo gelo congelado
+              do <span className='blink-text'> lago Dinesher</span>, são ajudados por locais e levados para o xerife 
+              <span className='blink-text'> NOME DO XERIFE</span>
+            </p>
+            <p>
+
+            </p>
           </div>
         </div>
 
@@ -85,19 +92,27 @@ const App = () => {
             não-duergar que encontrarem a bordo da nave. Se encontrarem o cadáver de Durth ou nenhum sinal dele a 
             bordo da balsa, eles abandonam o navio e não voltam para ele.
 
-            Se os personagens capturarem Durth, ele avisa seus captores que ele é filho de Xardorok Sunblight , que 
+            Se os personagens capturarem Durth, ele avisa seus captores que ele é filho de 
+            <span className='blink-text'> Xardorok Sunblight</span>, que 
             em breve reivindicará o Vale do Vento Gélido como seu reino, e que seria imprudente para eles ganharem a 
             ira de uma figura tão poderosa. Durth não revela nenhuma outra informação. Seus companheiros são 
-            igualmente calados; entretanto, ameaças à vida de Durth ou o uso inteligente de um feitiço de sugestão ou 
-            magia semelhante podem persuadir um ou mais deles a revelar as seguintes informações adicionais:
-
-            Xardorok tem uma fortaleza escondida nas montanhas. (A rota para esta fortaleza está marcada no mapa de 
-            Durth a bordo da balsa.)
-            A fortaleza de Xardorok possui uma forja alimentada pelo coração ainda pulsante de um dragão vermelho. 
-            Nesta forja, Xardorok está criando um dragão feito de chardalyn, com o qual planeja destruir Dez Cidades. 
-            O dragão chardalyn está perto de ser concluído.
-            Xardorok tem outro filho, Nildar, que comanda um posto avançado secreto no lado nordeste do Cairn de 
-            Kelvin (veja " O Invisível ").
+            igualmente calados; <strong>entretanto, ameaças à vida de Durth ou o uso inteligente de um feitiço de sugestão ou 
+            magia semelhante podem persuadir um ou mais deles a revelar as seguintes informações adicionais:</strong>
+            <ul>
+              <li>
+                Xardorok tem uma fortaleza escondida nas montanhas. (A rota para esta fortaleza está marcada no mapa de 
+                Durth a bordo da balsa.)
+              </li>
+              <li>
+                A fortaleza de Xardorok possui uma forja alimentada pelo coração ainda pulsante de um dragão vermelho. 
+                Nesta forja, Xardorok está criando um dragão feito de chardalyn, com o qual planeja destruir Dez Cidades. 
+                O dragão chardalyn está perto de ser concluído. 
+              </li>
+              <li>
+                Xardorok tem outro filho, Nildar, que comanda um posto avançado secreto no lado nordeste do Cairn de 
+                Kelvin (veja " O Invisível ").
+              </li>
+            </ul>   
           </div>
         </div>
       </div>
