@@ -18,11 +18,33 @@ const App = () => {
             <p> 
               Após terem quase morridos nas mãos de <span className='blink-text'> Maulg</span> nossos aventureiros
               recebem uma idesperada ajuda para sairem do covil da bruxa. Depois de serem arrastados pelo gelo congelado
-              do <span className='blink-text'> lago Dinesher</span>, são ajudados por locais e levados para o xerife 
-              <span className='blink-text'> NOME DO XERIFE</span>
+              do <span className='blink-text'> lago Dinesher</span>, são ajudados por locais e levados para o capitão 
+              <span className='blink-text'> Arlaggath</span>.
             </p>
             <p>
-
+              Ao grupo é pago duas diárias na instalagem <span className='blink-text'> Dama de branco</span> e 
+              logo que recobram a conciencia, curam os ferimentos e recuperam-se da aventura, o capitão
+              <span className='blink-text'> Arlaggath</span> busca os aventureiros para leva-los à presença da
+              oradora da cidade: <span className='blink-text'> Danneth Waylen</span>.
+            </p>
+          </div>
+          <div>
+            <p>
+              <strong>Objetivo da cena:</strong> 
+              <ul>
+                <li>
+                  Uma reunião com a oradora da cidade, onde vão se explicar sobre os eventos ocorridos no covil da bruxa.
+                </li>
+                <li>
+                  Uma barganha pelo caldeirão da bruxa, valo inicial de 400 PO a 500 PC (teste de <strong>Persuação 10 </strong> para melhorar a oferta).
+                </li>
+                <li>
+                  Levar atenção para a escrivã <span className='blink-text'> Prudence Tarkwold</span> que pode conter um segredo. (teste de <strong>Percepção 15 </strong> para notar uma tatuagem tribal que ela esconde abaixo do pescoço. 
+                </li>
+              </ul>
+            </p>
+            <p>
+            <strong>Tesouro pela missão:</strong> Um pergaminho com a magia BOLA DE FOGO e um SACO DE TRUQUES (Bag of Tricks, Gray)
             </p>
           </div>
         </div>
